@@ -5,7 +5,7 @@
 
 *The following is a transcript of my keynote lecture at FSCONS 2013. Releasing it now because my last post referenced it, and at SIF 2014 today, Carl Bildt essentially proved pretty much all the points I made here.*
 
-{% youtube 0N55BLw0Z-E %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0N55BLw0Z-E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 It is good to be here, it is always good to be here at FSCONS. More so than any other event I attend, to come here is to come home. Yet to come upon this stage is always a reminder that we have work to do, and this year, more than any previous year, we have work to do. In part that is perhaps because in previous years we were too lighthearted about the work we need to do, or too blasé or too busy doing other things. Of that I am as guilty as any of you. But we need to talk about this seriously now.
 

@@ -9,4 +9,4 @@ questions, and hopefully not entirely useless answers.
 
 Many thanks to the good people at CIS, TacticalTech and HasGeek for putting the event together!
 
-{% youtube eD9NkrEvV2Q %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eD9NkrEvV2Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

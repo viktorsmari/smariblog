@@ -8,7 +8,7 @@ this talk there, trying to give some history and background to the
 Icelandic constitutional process of 2010-2013, and putting it into a 
 context of Scottish independence.
 
-{% youtube Gez7itWp7KI %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gez7itWp7KI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Suffice to say, I think Scotland should be independant. I say at least 
 twice in this talk: EVERY reason that's been given for people to vote 

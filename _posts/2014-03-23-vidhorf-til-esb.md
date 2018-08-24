@@ -8,7 +8,7 @@ title: Viðhorf til ESB
 
 Ég ræddi á Austurvelli um síðustu helgi um þing og ákvarðanarétt í gegnum myndlíkingu sem Willi Rothley bjó til fyrir mörgum árum. Mér fannst eiginlega rétt að reyna að skýra aðeins betur hvað mér finnst um Evrópusambandið, þótt ræðan sem slík fjalli um annað.
 
-{% youtube Y6SV2Gx6G_o %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y6SV2Gx6G_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Í grunninn finnst mér einstaklingsfrelsið vera svo mikið lykilatriði að ég lít svo á að allt sem dregur úr einstaklingsfrelsi sé af hinu illa. Réttur hvers og eins til að taka ákvarðanir um þau mál sem varða hann sjálfan er lykilatriði.
 
