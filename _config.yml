@@ -30,6 +30,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
 collections:
   notes:
     output: true
