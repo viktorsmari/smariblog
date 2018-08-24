@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /articles/
+title: Articles
 ---
 
-## Articles
 {% for item in site.articles %}
 <h2>{{ item.title  }}</h2>
 <p>{{ item.description  }}</p>

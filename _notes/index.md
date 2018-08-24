@@ -1,9 +1,8 @@
 ---
 permalink: /notes/
 layout: page
+title: Notes
 ---
-
-## Notes
 
 {% for item in site.notes %}
 <h2>{{ item.title  }}</h2>
