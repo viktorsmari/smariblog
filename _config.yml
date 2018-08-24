@@ -17,7 +17,7 @@ title: Smári McCarthy
 email: smari@smarimccarthy.is
 description: >- # this means to ignore newlines until "baseurl:"
   Smári McCarthy
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/smariblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: smarimc
 github_username:  smari
