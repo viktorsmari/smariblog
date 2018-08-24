@@ -38,6 +38,8 @@ defaults:
       layout: "default"
 
 collections:
+  posts:
+    permalink: /:year/:month/:title/
   notes:
     output: true
   articles:
