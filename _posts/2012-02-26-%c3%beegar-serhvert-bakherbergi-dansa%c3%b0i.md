@@ -1,0 +1,44 @@
+---
+author: Smári McCarthy
+categories: [Icelandic, Politics]
+date: 2012-02-26
+has_been_twittered: [true]
+language: is
+permalink: /2012/02/%c3%beegar-serhvert-bakherbergi-dansa%c3%b0i/
+title: Þegar sérhvert bakherbergi dansaði
+---
+<p class="wp-flattr-button">
+  <a class="FlattrButton" style="display:none;" href="http://www.smarimccarthy.is/2012/02/%c3%beegar-serhvert-bakherbergi-dansa%c3%b0i/" title="Þegar sérhvert bakherbergi dansaði" rev="flattr;uid:smarimc;language:en_GB;category:text;button:compact;">Þegar hrunið byrjaði vann ég í Vestmannaeyjum, þrátt fyrir að búa í Reykjavík. Ég eyddi kvöldunum úti í Eyjum við skrif og pælingar, og hafði á undanförnu hálfu ári ásamt nokkrum vinum farið að leiða hugann að því að hrun væri óhjákvæmilegt. Um leið og stoðirnar runnu undan Glitni gerði ég mér ferð til Reykjavíkur til að sjá hvað væri að gerast. Sem miðborgarkaffihúsarotta af verri gerðinni, þá varð ég var við mikla uppsveiflu strax á þeirri fyrstu viku af espressólepjandi kaffihúsakommum í 101, ræðandi hrunið og það hvað allt ætti nú eftir að verða erfitt. Frá hverju borði heyrðist skoðun, úr hverju kaffihúsi heyrðust mótmælaraddir. Helgina eftir gvöð blessi Ísland ræðuna hans Geirs þá var óvenjuþétt pakkað. Boðað hafði verið til mótmæla, og að mótmælunum loknum fóru af stað einhverjir hundruðir funda á hinum ýmsu kaffihúsum, þar sem fólk skiptist á að greina vandamálin, leita lausna, og ræða </a>
+</p>
+
+Þegar hrunið byrjaði vann ég í Vestmannaeyjum, þrátt fyrir að búa í Reykjavík. Ég eyddi kvöldunum úti í Eyjum við skrif og pælingar, og hafði á undanförnu hálfu ári ásamt nokkrum vinum farið að leiða hugann að því að hrun væri óhjákvæmilegt. Um leið og stoðirnar runnu undan Glitni gerði ég mér ferð til Reykjavíkur til að sjá hvað væri að gerast.
+
+Sem miðborgarkaffihúsarotta af verri gerðinni, þá varð ég var við mikla uppsveiflu strax á þeirri fyrstu viku af espressólepjandi kaffihúsakommum í 101, ræðandi hrunið og það hvað allt ætti nú eftir að verða erfitt. Frá hverju borði heyrðist skoðun, úr hverju kaffihúsi heyrðust mótmælaraddir.
+
+Helgina eftir gvöð blessi Ísland ræðuna hans Geirs þá var óvenjuþétt pakkað. Boðað hafði verið til mótmæla, og að mótmælunum loknum fóru af stað einhverjir hundruðir funda á hinum ýmsu kaffihúsum, þar sem fólk skiptist á að greina vandamálin, leita lausna, og ræða hvernig ætti að endurskipuleggja landið.
+
+Þetta var strax fyrstu vikuna.
+
+Ég hef aldrei verið mikill mótmælandi í mér &#8211; mér líður alltaf eins og kjána standandi í mannmergð steytandi hnefa og öskrandi slagorð. Alveg sama hversu sammála ég er steytingunni og slagorðunum, þá vil ég alltaf standa aðeins til hliðar, vera með, en þögull. Þannig er ég bara. En þegar fundirnir byrja, þá tek ég þátt af öllum krafti. Fyrir vikið, þótt að flestir muni eftir búsáhaldabyltingunni fyrst og fremst af mótmælafundum á Austurvelli, þá man ég helst eftir samráðsfundunum og tölvupóstunum sem flugu á milli. Ég vissi satt að segja ekki hver Hörður Torfason var fyrr en mörgum mánuðum síðar. Ég skil ekki enn að fólk sé að setja hann á einhvern stall. Þegar ég fór á Austurvöll til að standa úti í horni, þá náði ég aldrei að greina orðaskil í ræðunum, enda var ég ekki þar til að hlusta á fólk tala. Til þess voru fundirnir. Ég stóð á Austurvelli til að vera með öllu hinu fólkinu, í samstöðu um mótmælin.
+
+Þegar ég heyri fólk tala mótmælin niður á grundvelli þess að þetta hafi verið einhver vinstri-grænna konspirasía eða álíka, þá fæ ég óbragð í munninn. Það var margt ófullkomið við hina svokölluðu búsáhaldabyltingu. Byltingar eiga að fela í sér kerfisbreytingar og umbætur. Ekki bara meira af því sama með öðru fólki við stjórnvöldin. Þetta var engin andskotans bylting, því miður.
+
+En þetta var svolítið annað. Þetta var sú örskamma stund þar sem Íslendingar stóðu hlið við hlið, sameinaðir um að láta ekki kúga sig. Fyrir smákongaþjóð verður það að teljast sögulegt. Allir komu saman á eigin forsendum og áttuðu sig á því að það væru forsendur allra hinna. Enginn þurfti að ráða, enginn þurfti að vera yfir eða bestur eða mestur eða mikilvægastur. Það voru bara allir mennskir saman þarna á Austurvelli í svolítinn tíma.
+
+Svo fóru allir í bakherbergi kaffihúsanna að skipuleggja næstu skrefin.
+
+Lögregla er nokkuð merkilegt fyrirbæri í stjórnmálalegu samhengi. Í kringum lögregluna hefur verið sköpuð sú ímynd að hennar hlutverk sé að vernda fólk og halda friðinn. Þessi ímynd er kolröng. Lögregla er handhafi einokunarleyfis á löglegri beitingu ofbeldis. Lögregla er valdstjórnartæki ríkisins, og lögreglumenn sjá um framfylgd þess valds. Vissulega gerir lögregla ýmislegt gott í og með, en ef maður hugsar út í það, þá er allt það góða sem lögregla gerir í raun ótengt þeirra hlutverki sem valdstjórnartæki, og það gæti allt eins einhver annar &#8211; til dæmis skátarnir eða barnaverndarstofa eða starfsmenn ÁTVR &#8211; uppfyllt það hlutverk. Ekki að ég sé að hvetja til þess að skátarnir verði látnir sjá um nauðgunarmál eða að starfsmenn ÁTVR eigi að sjá um að rannsaka morð &#8211; ég er bara að benda á að hlutverkin eru annars eðlis. Lögregluna má sjá sem tvö ólík fyrirbæri, en sama fólkið er látið vinna bæði störfin.
+
+Þegar maður eins og Geir Jón Þórisson, sem hefur áunnið sér virðingu fyrir það að vera stöðugur og skynsamur, réttsýnn og góðlátur, stendur fyrir framan tíu þúsund mótmælendur og skipar fyrir hópi lögreglumanna með skildi, kylfur, táragas og piparúða, þá er hann ekki þar til að vera réttsýnn eða góðlátur. Hann er þar til að vernda ríkið frá borgurunum, að tryggja valdhöfum það öryggi sem þau þarfnast til að geta haldið áfram að kúga almenning.
+
+Þegar að slíkur maður ákveður svo að ganga í röð valdhafa, þá hefur hann beina hagsmuni af því að láta eldra hlutverk sitt líta út sem annað en það að vera valdstjórnartæki. Það er miklu fallegari tilhugsun, fyrir tilvonandi valdhafa, að hafa verið verndari samfélagsins gegn konspirasíu vinstri-grænna eða annarra hryðjuverkamanna, heldur en að hafa verið sá sem kúgar fyrir hönd yfirboðara sinna.
+
+Mótmælahreyfingar hafa í gegnum tíðina verið ýmiskonar. Undanfarnar vikur hafa stúdentar hér í Valenciu mótmælt niðurskurðum í menntakerfinu á Spáni. Ég átti leið niður á lestarstöð um daginn þegar ég fann mig skyndilega í útjaðri hóps mótmælenda. Ég hafði ekki orðið var við að ég væri að ganga inn í mótmælaöldu því ég var að röfla við vin í símanum. Þegar símtalinu lauk leit ég í kringum mig rétt í tæka tíð, því að hópurinn &#8211; um þúsund stúdentar, grunar mig &#8211; byrjaði skyndilega að hlaupa. Ég stóð eins og bjáni þar til að her lögreglumanna óð framhjá mér, allir með skyldi og kylfur á lofti. Ég keyrðist næstum um koll, en slapp með skrekkinn, þótt krakkar í grennd við mig hafi fengið þó nokkur kylfuhögg.
+
+Fyrir hvað? Jú, að mótmæla því að framtíð þeirra sé fargað.
+
+Þegar fólk setur sig í hættu vegna einhvers málsstaðar, þá koma nokkrar ástæður til. Ein er að það hafi fengið tilskipun um að gera það. Önnur er að það trúi virkilega á málstaðinn. Fólk sem hlýðir tilskipunum einhverra yfirboðara er yfirleitt ýmist hermenn eða lögreglumenn. Það er líkt með mennskum sauðum að þeir klæðast einkennisbúningum. Það er verulega sjaldgæft að sjálfstætt hugsandi fólk leggji sig í hættu til að þóknast einhverjum pólitískum hugsjónum annarra. Sinna eigin, já. Klárlega. Eins og krakkarnir í Valenciu sem hafa verið barðir í götuna undanfarið. En til að einhver hlýði boðum frá pólitískum yfirboðurum þarf annaðhvort raunverulega ógn um ofbeldi, sé ekki hlýtt, eða verulega mikinn sjarma.
+
+Þessi fáráðskenning fyrrum valdstjórnartækisins, að þetta hafi allt verið samsæri, sýnir ekki að Geir Jón sé lygari, eins og margir hafa haldið fram í dag. Nei, hún sýnir að Geir Jón er gjörsamlega snargeðveikur. Maður þarf að vera snargeðveikur til að halda því fram að einhver innan vinstri grænna, eða jú stjórnarandstöðunnar sem var, eða bara Alþingis almennt, hafi nægilegan sjarma til að sannfæra fólk um að leggja sig í hættu fyrir sínar hugsjónir. Maður þarf að vera þó nokkuð geðveikur til að ógna fólki með ofbeldi hlýði það ekki valdhöfum, og halda því svo jöfnum höndum fram að þúsundir Íslendinga séu ófærir um að taka sjálfstæðar ákvarðanir um að rísa upp gegn kúgun.
+
+Búsáhaldabyltingin átti sér ekki stað nema að litlu leyti á Austurvelli. Hún átti sér fyrst og fremst stað í samtölum allra þeirra Íslendinga sem tóku þátt í henni, í fundum okkar og samkomum, á þeim örstutta tíma þegar sérhvert bakherbergi dansaði. Sú trú sem Sjálfstæðismenn virðast vera að byggja upp með sér, að búsáhaldabyltingin hafi verið lítið annað en Hörður Torfason og nokkrir ónefndir þingmenn með meiri sjarma en fyrirfinnst á Alþingi, sýnir veruleikafirringu á grafalvarlegu stigi. Meðlimir þessarar stjórnmálaelítu eru að endurskoða fortíðina til að mæta þörfum nútímans, eins og góðum alræðissinnum sæmir. Við strengjabrúðurnar ættum ekki að leyfa þeim að komast upp með það.

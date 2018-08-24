@@ -1,0 +1,22 @@
+---
+{categories: íslenska, comments: true, date: 2013-12-09, language: is, title: Hégómi
+    fimmta valdsins}
+---
+
+Ef ekki hefði verið fyrir inngrip Birgittu Jónsdóttur inn í gerð kvikmyndarinnar The Fifth Estate, þá hefði myndin fjallað að hluta um íranskan kjarneðlisfræðing sem væri í hættu staddur vegna uppljóstrana Wikileaks á því að hann hefði séð bandaríkjastjórn fyrir upplýsingum um kjarnorkuvopn Írana. Í myndinni hefði verið sena þar sem aðalsögupersónur sætu í heitum potti á Íslandi og ræddu kæruleysislega um það sem átti eftir að verða stærsta sönnun á stórfelldum stríðsglæpum síðan í lok seinni heimstyrjaldar.
+
+Þegar handritið að þessari kvikmynd lak út hafði Birgitta samband við Josh Singer, handritshöfund, og lýsti gremju sinni yfir þeirri þvælu sem var í myndinni. Í kjölfarið fékk hún nýja útgáfu af handritinu, og við sátum á kaffihúsi langan eftirmiðdag og lásum í gegnum vitleysuna - undirstikuðum helsta ruglið og svo voru leiðréttingar sendar. Þetta leiddi til þess að úr varð mynd sem varpaði ekki á nokkurn hátt neikvæðu ljósi á Wikileaks samtökin, né nokkurn þar innan.
+
+Það var aldrei nokkur leið til að stöðva framleiðslu myndarinnar. Það hefði hugsanlega verið best, en það var ekki hægt. Þeim teningum var kastað. Það eina sem var hægt að gera var að reyna að færa söguna nær raunveruleikanum - þótt hún væri þar fjarri - og rétta hlut þeirra sem voru persónugerðar.
+
+Mér var boðið á forsýningu breska dagblaðsins The Guardian á myndinni í London. Ég átti von á því versta. Þrátt fyrir allt, þegar upp er staðið, þá er það leikstjórinn og leikararnir sem ráða því með hvaða hætti spilast úr svona myndum. Niðurstaðan kom mér á óvart: atburðir myndarinnar voru í kolrangri tímaröð, margt fólk sem var á staðnum í raunveruleikanum var ekki á staðnum í myndinni, og sömuleiðis var margt fólk á staðnum í myndinni sem var ekki á staðnum í raunveruleikanum. Ýmsir atburðir myndarinnar voru hreinn uppspuni. En mér fannst myndin þrátt fyrir allt góð. Hún náði að fanga bæði hugsjónirnar og andann sem ríkti, sýndi allar persónur í mjög sanngjörnu ljósi. Benedict Cumberbatch lék sitt hlutverk mjög vel - eina sem ég hafði út á að setja var síðasta setning myndarinnar, sem var frekar klén.
+
+B-plottið, með íranska kjarneðlisfræðinginn, var fjarlægt. Í stað þess var öllu raunverulegri frásögn af manni sem þurfti að komast burt úr Líbíu. Sú saga var líka uppspuni, en hafði einkum tvennt fram yfir upprunalega B-plottið. Annars vegar voru mjög margir sem þurftu að flýja hin ýmsu lönd í tengslum við arabíska vorið - ég þekki suma þeirra sjálfur - þannig að þessi saga er ekki alskostar ótrúverðug. Hinsvegar gaf þessi frásögn hvergi í skyn að Íran hefði kjarnorkuvopn, sem er sú tegund af hættulegum uppspuna sem getur sveigt almenningsálit, sem nú þegar er ekki jákvætt gagnvart Íran, og orðið til þess að auka líkurnar á innrás Bandaríkjanna inn í Íran.
+
+Ef Julian Assange og Kristinn Hrafnsson myndu losa um hégómann og reiðina í smá stund og hugsa málið myndu þeir sennilega fatta það að þeir eiga að vera að þakka Birgittu fyrir, en ekki gagnrýna hana. Það er nákvæmlega ekkert gagnlegt við þessar árásir. Þær bæta varla hina löskuðu ímynd Wikileaks, sem myndin nær þó að fegra þó nokkuð.
+
+Kristinn Hrafnsson gerði nokkuð sérkennilega athugasemd varðandi þá hugmynd að Pírati væri að aðstoða Hollywood kvikmyndaver, þar sem við Píratar værum á móti höfundarrétti. Þetta sýnir algjöran vanskilning á stefnu okkar: við erum ekki á móti höfundarrétti, við erum á móti úreldum, ónýtum, heimskulegum höfundarrétti sem samræmist ekki nútímanum. Það að aðstoða kvikmyndaver með nokkrum símtölum og tölvupóstum er því engu meiri hræsni en að gefa út bók eða skrifa bloggfærslu.
+
+Það er löngu kominn tími til að þetta væl í Wikileaks mönnum hætti. Þessi samtök voru eitt sinn merkileg, og gerðu stórkostlega hluti. Þau breyttu heiminum til hins betra. Ég er stoltur af minni þátttöku í þeim samtökum, þrátt fyrir að viðskilin hafi ekki verið með besta móti. Hugmyndafræðilegur ágreiningur - með mjög raunverulegar afleiðingar - gerði mér og ýmsum öðrum ókleift að halda áfram að starfa með þeim. Það er ástæðulaust að telja það til sérstaklega, enda löngu liðið og ekki gagnlegt neinum nema þeim sem vilja takmarka getu fimmta valdsins til að starfa.
+
+Það sem skiptir máli er að það er mikil þörf á samtök á borð við Wikileaks í dag, heiðvirðum og stöðugum samtökum sem allir geta treyst. En samtökin munu aldrei ná slíkum hæðum á ný fyrr en þessi biturð verður lögð til hvíldar.
