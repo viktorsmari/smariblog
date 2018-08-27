@@ -1,9 +1,7 @@
 ---
-layout: page
 title: Contact me
 author: Smári McCarthy
-date: 2015-11-04
-permalink: /contact/
+date: 2017-04-13
 ---
 
 ## GnuPG (PGP) Public Key
@@ -13,7 +11,8 @@ permalink: /contact/
 ## E-mail
 E-mail is my preferred method of correspondance. No spam please.
 
- * smari<span>&#64;</span>smarimccarthy.is
+ * smarim<span>&#64;</span>althingi.is (parliamentary matters)
+ * smari<span>&#64;</span>smarimccarthy.is (other)
 
 If you want a fast answer, make it clear that there is an action point
 in the mail &#8211; if I receive mail that looks informative but does
@@ -25,15 +24,7 @@ chance to process it.
 
 Please use e-mail unless it's urgent.
 
- * +387 60 33 47 323 (Bosna i Hercegovina; DEFAULT)
- * +44 7473 363763 (UK; Europe)
- * +354 662 2701 (Iceland; Europe, North America)
-
-## Instant messaging
- * Tox: 9CA7436D 1DA2E358 85D12F84 75DD3BD4 28D896B2 19DBDF50 4415C3E7 1414FB0E F42F2DC5 0C8F
- * IRC: smari on freenode
-
-Other IM options available upon request.
+ * +354 662 2701
 
 ## Postal address
 

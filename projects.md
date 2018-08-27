@@ -1,14 +1,25 @@
 ---
-layout: page
 title: Projects
 author: Smári McCarthy
 date: 2015-11-04
-permalink: /projects/
 ---
+
+## Icelandic Pirate Party
+
+I co-founded the Icelandic Pirate Party and stood as their number one candidate in Iceland's south 
+constituency in the 2013 general elections, and again, more successfully, in 2016.
+
+## Nordic Voting Systems
+
+I've been doing some research into Nordic voting systems (in particular, Iceland, Sweden and Norway) with Þorkell Helgason and Kurt Jörnsten. One of the outputs is a voting system simulator, available [here][18].
+
+## OCCRP
+
+From 2014-2016 I was the chief technologist at the Organized Crime and Corruption Reporting Project. It was a wonderful job. A lot of the software we built is freely available on [OCCRP's Github][17].
 
 ## Mailpile
 
-The main project I'm working on right now is [Mailpile][1], a modern, fast web-mail client with user-friendly encryption and privacy features. It's free software, written in Python, available on [Github][2]. If you want to talk about it, join #mailpile on irc.freenode.net.
+I'm one of the folks behind [Mailpile][1], a modern, fast web-mail client with user-friendly encryption and privacy features. It's free software, written in Python, available on [Github][2]. If you want to talk about it, join #mailpile on irc.freenode.net.
 
 ## Liquid Democracy
 
@@ -19,10 +30,6 @@ I frequently work on issues related to this; mostly writing and lecturing. I bui
 ## IMMI
 
 I'm a co-founder of the [International Modern Media Institute][8] and served as its first executive director. I am now a board member of that organization.
-
-## Icelandic Pirate Party
-
-I co-founded the Icelandic Pirate Party and stood as their number one candidate in Iceland's south constituency in the 2013 general elections. We got three wonderful people into the parliament, but we were a couple of hundred votes short in my constituency. Now I'm not serving any role for the Pirates, execept insofar as I frequently rant about Pirate politics and try to help the party from afar.
 
 ## Older projects
 
@@ -51,3 +58,5 @@ others at the helm:
  [14]: http://www.fablab.is
  [15]: http://direct.democracy.is
  [16]: http://www.fsfi.is
+ [17]: https://github.com/occrp
+ [18]: https://github.com/smari/voting
