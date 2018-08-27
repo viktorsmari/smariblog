@@ -21,6 +21,8 @@ baseurl: "/smariblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: smarimc
 github_username:  smari
+facebook_username:  smarimc
+youtube_username:  smarimc
 
 # Build settings
 markdown: kramdown
@@ -35,7 +37,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
+      layout: "page"
 
 collections:
   posts:
@@ -45,6 +47,8 @@ collections:
   articles:
     output: true
     permalink: /:collection/:path/
+
+#show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

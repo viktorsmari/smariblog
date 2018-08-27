@@ -11,6 +11,7 @@ layout: home
 ### Hello!
 This site is severely out of date. I'll fix it soon, maybe.
 
-![me](./assets/smari_talk.jpg)
+<img class="img-fluid" src="./assets/smari_talk.jpg" alt="me" />
+
 
 Check out my projects, the books I've been involved with, my longer form articles, my shorter rants, and my little notes.
