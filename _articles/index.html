@@ -7,6 +7,6 @@ title: Articles
 {% for item in site.articles %}
   <p class="mb-0 mt-4">{{ item.date | date: "%b %-d, %Y" }}</p>
   <h2><a href="{{site.baseurl}}{{ item.url  }}">{{ item.title  }}</a></h2>
-  <p>{{ item.categories | array_to_sentence_string }}</p>
+  <p>{{ item.categories | join: ', ' }}</p>
 {% endfor %}
 

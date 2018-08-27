@@ -26,6 +26,8 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+        <p>{{ post.categories | join: ', ' }}</p>
+        <i>{{ post.tags | join: ', ' }}</i>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

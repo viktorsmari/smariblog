@@ -10,6 +10,8 @@ layout: default
       {{ page.date | date: date_format }}
     </time>
     </p>
+    <b>{{ page.categories | join:', ' }}</b>
+    <i>{{ page.tags | join:', ' }}</i>
   </div>
 
   <div class="col-12">
